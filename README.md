@@ -87,7 +87,7 @@ curl http://localhost:4005/me
 
 Using a browser, simply navigate to:
 ```
-http://localhost:3000/me
+http://localhost:4005/me
 ```
 
 ## Project Structure
